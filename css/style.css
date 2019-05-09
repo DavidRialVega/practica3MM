@@ -1,0 +1,21 @@
+@media (min-width: 768px) {
+    .navbar-brand
+    {
+        position: absolute;
+        left: 47.5%;
+        transform: translateX(-50%);
+    }
+}
+
+.navbar-custom{
+    background-color: #00254b;
+}
+
+.navbar-custom a{
+    color: #fff;
+    font-size: 1.3em;
+}
+
+.navbar-custom .navbar-brand{
+    font-size: 2em;
+}
