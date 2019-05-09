@@ -7,15 +7,32 @@
     }
 }
 
+@font-face{
+    font-family: "WOWFont";
+    src: url("../font/LifeCraft_Font.ttf") format('truetype');
+}
+
 .navbar-custom{
     background-color: #00254b;
 }
 
 .navbar-custom a{
     color: #fff;
-    font-size: 1.3em;
+    font-size: 2em;
 }
 
 .navbar-custom .navbar-brand{
-    font-size: 2em;
+    font-size: 2.5em;
+}
+
+.background-page{
+    background-color: #E1E2E1;
+}
+
+.center-page{
+    background-color: #FAFAFA;
+}
+
+#topPage{
+    font-family: 'WOWFont';
 }
